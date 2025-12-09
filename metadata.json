@@ -1,0 +1,7 @@
+{
+  "name": "Siri Organiser",
+  "description": "A personal organizer app for tasks, journey logging, and daily notes with offline-first capability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
